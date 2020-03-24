@@ -149,6 +149,8 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (1.2.6)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2019.3)
+      tzinfo (>= 1.0.0)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     web-console (3.7.0)
@@ -182,4 +184,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   2.1.4
+   1.17.3
